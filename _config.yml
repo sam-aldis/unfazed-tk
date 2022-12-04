@@ -1,2 +1,4 @@
-title: "Unfazed"
-remote-theme: "themes/forty"
+title: Unfazed
+destination: .
+src: ./_source
+theme: ./themes/forty
