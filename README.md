@@ -1,4 +1,4 @@
 ---
 title: "Unfazed"
 ---
-# {{title}}
+# Unfazed
